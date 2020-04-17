@@ -1,6 +1,6 @@
 # udacity-JenkinsPipelinesOnAWS
 
-## Step A: AWS Steps
+## AWS Steps
 
 ### Minimal privilege user
 
@@ -14,20 +14,31 @@
 	<img src="https://github.com/singha53/static/blob/master/screenshot-02.png" width={400} alt="app" />
 </p>
 
-## Step B: Install Jenkins On Ubuntu
+## Jenkins On Ubuntu
+
+### Install Jenkins
 
 <p align="center">
 	<img src="https://github.com/singha53/static/blob/master/screenshot-03.png" width={400} alt="app" />
 </p>
 
-## Step C: Setup Jenkins On Ubuntu
+### Setup Jenkins
 
 <p align="center">
 	<img src="https://github.com/singha53/static/blob/master/screenshot-03.png" width={400} alt="app" />
 </p>
 
-## Step d: Install Blue Ocean plugin
+## Blue Ocean plugin
 
 <p align="center">
 	<img src="https://github.com/singha53/static/blob/master/screenshot-04.png" width={400} alt="app" />
 </p>
+
+## GitHub Repository
+
+<p align="center">
+	<img src="https://github.com/singha53/static/blob/master/screenshot-05.png" width={400} alt="app" />
+</p>
+
+## Set up AWS credentials in Jenkins
+
