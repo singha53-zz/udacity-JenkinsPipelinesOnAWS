@@ -40,5 +40,8 @@
 	<img src="https://github.com/singha53/static/blob/master/screenshot-05.png" width={400} alt="app" />
 </p>
 
-## Set up AWS credentials in Jenkins
+## Set up AWS credentials in Jenkins, S3 Bucket setup, Jenkins pipeline for AWS
 
+<p align="center">
+	<img src="https://github.com/singha53/static/blob/master/screenshot-06.png" width={400} alt="app" />
+</p>
